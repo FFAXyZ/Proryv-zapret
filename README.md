@@ -20,7 +20,7 @@
 
 ## Кнопки
 
-- **Установить** — скачивает последний релиз `Flowseal/zapret-discord-youtube`
+- **Установить** — скачивает последний релиз `[Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)`
   (.zip с GitHub API), распаковывает в `%LOCALAPPDATA%\PRORYV\zapret`,
   сохраняет пользовательские списки `*-user.txt`.
 - **Включить / Остановить** — запуск выбранной стратегии (`general*.bat`)
